@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set -e
 
 BASE_URL="https://raw.githubusercontent.com/Pax0102/build-lynx/main"
 INSTALL_DIR="$HOME/.lynx"
